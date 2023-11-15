@@ -32,7 +32,7 @@ gem 'rake'
 gem 'knapsack'
 gem 'docker-api'
 gem 'aws-sdk'
-gem 'google_drive'
+gem 'google_drive', '>= 2.1.3'
 gem 'http'
 
 group :rubocop do
